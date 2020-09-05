@@ -1,0 +1,32 @@
+
+
+body{
+    background-image: url(images/background.jpg);
+    animation: haha 5s infinite;
+ 
+      
+    
+}
+
+.cardd{
+    padding: 2%;
+ 
+    
+}
+@keyframes haha {
+    0%, 100% {
+      background: #ff7171;
+    }
+    10% {
+      background:#4e89ae;
+    }
+    40% {
+      background: purple;
+    }
+    70% {
+      background: #4e89ae;
+    }
+    20%{
+        background: #cd0a0a;
+    }
+  }
